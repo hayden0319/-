@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">蛋崽AI</h1>
+  <h1 align="center">纸莺AI</h1>
   <p> 一个全功能的AI 让人眼前一亮的商业版GPT源码。</p>
 
   [体验地址](https://0oai.com) · [演示图片](./photo.md)  · [微信加群](./docs/images/qrcode.png)
